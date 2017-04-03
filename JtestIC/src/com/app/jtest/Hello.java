@@ -7,7 +7,7 @@ public class Hello {
 		int j = 20, i = 0;
 		  try {
 		    System.out.println(j/i);
-		  } catch (ArithmeticExcepton e) {
+		  } catch (ArithmeticException e) {
 		    //System.out.println(" Division par zéro !");
 		  }
 
